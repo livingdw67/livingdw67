@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Daniel Livingston 
+**Data Scientist | MS Applied Statistics**
 
-<!--
-**livingdw67/livingdw67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Science Consultant based in Greer, SC, with over 10 years of experience in the Finance and Energy sectors. I am having the time of my life right now building the tools I’ve always wanted to see exist. I’ve set up shop at the Openworks tech hub in downtown Greenville, and the freedom to focus on pure R&D has been invigorating. Currently, I’m deep in the weeds of building a Grid Stress Simulator to help utilities prepare for the Inflation Reduction Act. It’s a return to my roots: applying strict statistical rigor to complex, messy physical systems—and solving problems that actually matter.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technical Expertise
+* **Languages:** Python, SQL, R, SAS, DAX
+* **MLOps & Tools:** Streamlit, MLflow, AWS, Docker, Git, Agile
+* **Core Competencies:** Customer Propensity Modeling, Feature Stores, Data Strategy
+
+
+
+---
+[daniellivingston.org](https://daniellivingston.org)
