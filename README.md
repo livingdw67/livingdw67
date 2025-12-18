@@ -5,7 +5,7 @@ I'm a Data Science Consultant based in Greer, SC, with over 10 years of experien
 
 ---
 
-### 🛠 Technical Expertise
+### Technical Expertise
 * **Languages:** Python, SQL, R, SAS, DAX
 * **MLOps & Tools:** Streamlit, MLflow, AWS, Docker, Git, Agile
 * **Core Competencies:** Customer Propensity Modeling, Feature Stores, Data Strategy
