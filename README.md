@@ -1,16 +1,20 @@
-# Hi, I'm Daniel Livingston 
-**Data Scientist | MS Applied Statistics**
+# Hi, I'm Daniel Livingston
 
-I'm a Data Science Consultant based in Greer, SC, with over 10 years of experience in the Finance and Energy sectors. I am having the time of my life right now building the tools I’ve always wanted to see exist. I’ve set up shop at the Openworks tech hub in downtown Greenville, and the freedom to focus on pure R&D has been invigorating. Currently, I’m deep in the weeds of building a Grid Stress Simulator to help utilities prepare for the Inflation Reduction Act. It’s a return to my roots: applying strict statistical rigor to complex, messy physical systems—and solving problems that actually matter.
+**Senior Data Scientist & Platform Engineer | MS Applied Statistics**
 
----
+I am a data professional based in Greer, SC, with over a decade of experience bridging the gap between advanced statistical modeling and enterprise data architecture. After spending years building machine learning pipelines and feature stores in the Finance and Energy sectors, my focus is on designing the high-performance, secure platforms required to deploy data products at scale.
+
+I specialize in definition-driven architectures, native in-warehouse compute, and zero-downtime deployment pipelines. I believe in direct, professional communication and building robust tools that solve actual operational friction. Currently, I am focused on modern Snowflake architectures, utilizing Snowpark to engineer features securely without moving data across network perimeters.
 
 ### Technical Expertise
-* **Languages:** Python, SQL, R, SAS, DAX
-* **MLOps & Tools:** Streamlit, MLflow, AWS, Docker, Git, Agile
-* **Core Competencies:** Customer Propensity Modeling, Feature Stores, Data Strategy
 
+* **Data Platforms & Cloud:** Snowflake, AWS, Docker
+* **Languages:** Python, SQL, SAS, R, DAX
+* **Engineering & MLOps:** Snowpark, CI/CD Pipelines, Git, Streamlit, MLflow
+* **Core Competencies:** Enterprise Data Architecture, Feature Stores, Definition-Driven Governance, Customer Propensity Modeling
 
+### Featured Architecture
 
----
+* **[The Data Canon](link-to-your-public-repo):** An enterprise-grade, six-schema Snowflake platform featuring automated dynamic data masking, a continuous Snowpark feature store, and zero-copy clone CI/CD deployment pipelines. *(Codebase held in private vault to protect proprietary patterns; architectural brief available for review).*
+
 [daniellivingston.org](https://daniellivingston.org)
