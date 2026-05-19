@@ -15,6 +15,6 @@ I specialize in definition-driven architectures, native in-warehouse compute, an
 
 ### Featured Architecture
 
-* **[The Data Canon]([https://github.com/livingdw67/data-canon-architecture/blob/main/README.md)):** An enterprise-grade, six-schema Snowflake platform featuring automated dynamic data masking, a continuous Snowpark feature store, and zero-copy clone CI/CD deployment pipelines. *(Codebase held in private vault to protect proprietary patterns; architectural brief available for review).*
+* **[The Data Canon](https://github.com/livingdw67/data-canon-architecture)**: An enterprise-grade, six-schema Snowflake platform featuring automated dynamic data masking, a continuous Snowpark feature store, and zero-copy clone CI/CD deployment pipelines. *(Codebase held in private vault to protect proprietary patterns; architectural brief available for review).*enterprise-grade, six-schema Snowflake platform featuring automated dynamic data masking, a continuous Snowpark feature store, and zero-copy clone CI/CD deployment pipelines. *(Codebase held in private vault to protect proprietary patterns; architectural brief available for review).*
 
 [daniellivingston.org](https://daniellivingston.org)
