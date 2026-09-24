@@ -17,7 +17,7 @@ My work centers on three things:
 | **[Predictive Maintenance](https://github.com/livingdw67/cmapss-predictive-maintenance)** | End-to-end Snowflake pipeline (raw → staging → core → marts → feature store) feeding tandem XGBoost classifiers that give early-warning and critical-action alerts for turbofan engine failure. Includes class-imbalance experiments and Snowflake Model Registry. |
 | **[Loan Default Prediction](https://github.com/livingdw67/azure-automl-loan-default-prediction)** | Azure AutoML with cost guardrails, ECOA-compliant feature engineering, and a business-driven cutoff that captures 75–80% of defaults before charge-off. SHAP explains the drivers of risk. |
 | **[Competitor Intelligence RAG](https://github.com/livingdw67/michelin-rag)** | LLM application combining retrieval over annual reports with a live web-sentiment agent. LangChain, ChromaDB, Streamlit, Docker. |
-| **[Grid Stress Simulator](https://github.com/livingdw67/grid-stress-simulator)** | Models transformer overload risk from clustered EV adoption using NREL ResStock load profiles, with an interactive dashboard for utility planners. |
+| **[Grid Stress Simulator](https://github.com/livingdw67/grid-stress-simulator)** | Estimates how IRA-driven heat pump adoption raises winter peak load, using NREL ResStock load profiles, with an interactive dashboard for utility planners. |
 | **[Vehicle Loan Origination Risk](https://github.com/livingdw67/vehicle-loan-default-risk)** | XGBoost vs. an interpretable logistic scorecard, with a clear-eyed read on the data's predictive ceiling and a roadmap for alternative data. |
 
 ### Technical Toolkit
