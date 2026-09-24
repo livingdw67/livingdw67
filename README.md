@@ -1,20 +1,30 @@
 # Hi, I'm Daniel Livingston
 
-**Senior Data Scientist & Platform Engineer | MS Applied Statistics**
+**Senior Data Scientist | MS Applied Statistics | Greer, SC**
 
-I am a data professional based in Greer, SC, with over a decade of experience bridging the gap between advanced statistical modeling and enterprise data architecture. After spending years building machine learning pipelines and feature stores in the Finance and Energy sectors, my focus is on designing the high-performance, secure platforms required to deploy data products at scale.
+I build machine learning systems that change business decisions, not just dashboards. I have over a decade of experience in the Finance and Energy sectors, covering the full path from statistical modeling to the data platforms that put those models into production.
 
-I specialize in definition-driven architectures, native in-warehouse compute, and zero-downtime deployment pipelines. I believe in direct, professional communication and building robust tools that solve actual operational friction. Currently, I am focused on modern Snowflake architectures, utilizing Snowpark to engineer features securely without moving data across network perimeters.
+My work centers on three things:
 
-### Technical Expertise
+* **Decisions, not just metrics.** I tune models to what an error actually costs the business: F2-optimized thresholds when a missed default or engine failure costs more than a false alarm.
+* **Models that hold up to scrutiny.** Interpretability (SHAP, linear scorecards), fair-lending compliance (ECOA), and honest reporting of a model's limits.
+* **Platforms that scale.** Layered Snowflake architectures, in-warehouse feature engineering with Snowpark, and model registries so work is reproducible across a team.
 
-* **Data Platforms & Cloud:** Snowflake, AWS, Docker
+### Featured Projects
+
+| Project | What it shows |
+|---|---|
+| **[Predictive Maintenance](https://github.com/livingdw67/cmapss-predictive-maintenance)** | End-to-end Snowflake pipeline (raw → staging → core → marts → feature store) feeding tandem XGBoost classifiers that give early-warning and critical-action alerts for turbofan engine failure. Includes class-imbalance experiments and Snowflake Model Registry. |
+| **[Loan Default Prediction](https://github.com/livingdw67/azure-automl-loan-default-prediction)** | Azure AutoML with cost guardrails, ECOA-compliant feature engineering, and a business-driven cutoff that captures 75–80% of defaults before charge-off. SHAP explains the drivers of risk. |
+| **[Competitor Intelligence RAG](https://github.com/livingdw67/michelin-rag)** | LLM application combining retrieval over annual reports with a live web-sentiment agent. LangChain, ChromaDB, Streamlit, Docker. |
+| **[Grid Stress Simulator](https://github.com/livingdw67/grid-stress-simulator)** | Models transformer overload risk from clustered EV adoption using NREL ResStock load profiles, with an interactive dashboard for utility planners. |
+| **[Vehicle Loan Origination Risk](https://github.com/livingdw67/vehicle-loan-default-risk)** | XGBoost vs. an interpretable logistic scorecard, with a clear-eyed read on the data's predictive ceiling and a roadmap for alternative data. |
+
+### Technical Toolkit
+
+* **Modeling:** XGBoost, scikit-learn, logistic scorecards, clustering, SHAP, class-imbalance methods, threshold optimization
+* **Platforms & MLOps:** Snowflake, Snowpark, Azure ML, AWS, MLflow, Docker, CI/CD
 * **Languages:** Python, SQL, SAS, R, DAX
-* **Engineering & MLOps:** Snowpark, CI/CD Pipelines, Git, Streamlit, MLflow
-* **Core Competencies:** Enterprise Data Architecture, Feature Stores, Definition-Driven Governance, Customer Propensity Modeling
-
-### Featured Architecture
-
-* **[The Data Canon](https://github.com/livingdw67/data-canon-architecture)**: An enterprise-grade, six-schema Snowflake platform featuring automated dynamic data masking, a continuous Snowpark feature store, and zero-copy clone CI/CD deployment pipelines. *(Codebase held in private vault to protect proprietary patterns; architectural brief available for review).*
+* **Applied AI:** RAG, LangChain, vector databases, LLM agents
 
 [daniellivingston.org](https://daniellivingston.org)
