@@ -18,7 +18,6 @@ My work centers on three things:
 | **[Loan Default Prediction](https://github.com/livingdw67/azure-automl-loan-default-prediction)** | Azure AutoML with cost guardrails, ECOA-compliant feature engineering, and an F2-tuned cutoff that catches about 75% of defaults on a held-out test set, validated out of sample. SHAP explains the drivers of risk. |
 | **[Tire Industry Report Analyst](https://github.com/livingdw67/michelin-rag)** | LangGraph agent over 1,250 pages of annual reports: hybrid retrieval, verified page citations, calculator-backed comparisons, and layered guardrails. 98% accuracy on a 41-question evaluation; FastAPI + Streamlit, Docker. |
 | **[Grid Stress Simulator](https://github.com/livingdw67/grid-stress-simulator)** | Models how IRA-driven heat pump and EV adoption change winter peak load in every South Carolina county, using NREL ResStock data. Found that synchronized off-peak EV charging can create a new midnight peak in cold snaps. |
-| **[Vehicle Loan Origination Risk](https://github.com/livingdw67/vehicle-loan-default-risk)** | XGBoost vs. an interpretable logistic scorecard, with a clear-eyed read on the data's predictive ceiling and a roadmap for alternative data. |
 
 ### Technical Toolkit
 
@@ -26,5 +25,3 @@ My work centers on three things:
 * **Platforms & MLOps:** Snowflake, Snowpark, Azure ML, AWS, MLflow, Docker, CI/CD
 * **Languages:** Python, SQL, SAS, R, DAX
 * **Applied AI:** RAG, LangChain, vector databases, LLM agents
-
-[daniellivingston.org](https://daniellivingston.org)
