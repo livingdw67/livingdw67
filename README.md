@@ -21,8 +21,8 @@ I build machine learning systems that change business decisions. I have over a d
 |---|---|---|
 | **[Customer Segmentation](https://github.com/livingdw67/snowpark-customer-segmentation)** | Segments 4,261 customers by next-quarter value and buying style, trained entirely inside Snowflake. The top 20% capture 71% of next-quarter revenue, vs. 56% for standard RFM. | Snowpark, scikit-learn, LangGraph |
 | **[Predictive Maintenance](https://github.com/livingdw67/cmapss-predictive-maintenance)** | Flags turbofan engines 50 and 15 cycles before failure, catching about 91% of failures on held-out engines. | Snowflake, XGBoost, survival analysis |
-| **[Loan Default Prediction](https://github.com/livingdw67/azure-automl-loan-default-prediction)** | Catches about 75% of defaults on a true holdout (AUC 0.76) with an ECOA-compliant, F2-tuned model. Caught training-data leakage in the initial estimate. | Azure AutoML, SHAP |
 | **[Tire Industry Report Analyst](https://github.com/livingdw67/michelin-rag)** | AI agent that answers questions over 1,250 pages of annual reports, citing the page behind every figure. 40 of 41 test questions correct; refused every off-topic and prompt-injection attempt. | LangGraph, FastAPI, Docker |
+| **[Loan Default Prediction](https://github.com/livingdw67/azure-automl-loan-default-prediction)** | Catches about 75% of defaults on a true holdout (AUC 0.76) with an ECOA-compliant, F2-tuned model. Caught training-data leakage in the initial estimate. | Azure AutoML, SHAP |
 | **[Grid Stress Simulator](https://github.com/livingdw67/grid-stress-simulator)** | Models how heat pump and EV adoption shift winter peak load in every South Carolina county. Finds that an 11 PM EV charging timer creates a new midnight peak above today's morning peak. | NREL ResStock, Streamlit, Plotly |
 
 ### Technical Toolkit
