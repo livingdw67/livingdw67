@@ -10,6 +10,11 @@ I build machine learning systems that change business decisions. I have over a d
 * **Models that hold up to scrutiny.** Interpretability (SHAP, linear scorecards), fair-lending compliance (ECOA), and honest reporting of a model's limits.
 * **Platforms that scale.** Layered Snowflake architectures, in-warehouse training with Snowpark, and reproducible model deployment across a team.
 
+### Experience
+
+* **TIAA**, Senior Data Scientist (2014–2023): Built predictive models feeding a recommendation system that drove **$36M in incremental revenue**, and productionized a SHAP-explained churn model for wealth advisor management.
+* **Duke Energy**, Data Scientist (2024–2025): Built a centralized feature store across structured and unstructured sources that **cut model build time by 50%**.
+
 ### Featured Projects
 
 | Project | Result | Stack |
@@ -26,3 +31,4 @@ I build machine learning systems that change business decisions. I have over a d
 * **Platforms & MLOps:** Snowflake, Snowpark, Azure ML, AWS, MLflow, Docker, GitHub Actions
 * **Languages:** Python, SQL, SAS, R, DAX
 * **Applied AI:** RAG, LangGraph, vector databases, LLM agents, LLM evaluation
+* **Certifications:** AWS Certified Machine Learning – Associate (2024)
