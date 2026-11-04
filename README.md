@@ -1,6 +1,6 @@
 # Hi, I'm Daniel Livingston
 
-**Senior Data Scientist · MS Applied Statistics · Greer, SC**
+**Data Scientist · MS Applied Statistics · Greer, SC**
 
 [LinkedIn](https://www.linkedin.com/in/daniel-w-livingston)
 
