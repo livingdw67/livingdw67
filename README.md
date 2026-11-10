@@ -32,7 +32,7 @@ Illustrative lending book, scored by a calibrated default model. A missed defaul
 t^{*} = \frac{C_{\text{FP}}}{C_{\text{FP}} + C_{\text{FN}}} = \frac{1{,}000}{1{,}000 + 3{,}000} = 0.25
 ```
 
-That's not the usual 0.50, which costs \$56k more. Drag the threshold yourself on the [portfolio](https://daniel-livingston.streamlit.app).
+That's not the usual 0.50, which costs \$56k more. The same choice, made on real applicants, is in [Loan Default Prediction](https://github.com/livingdw67/loan-default-prediction).
 
 <details>
 <summary>The numbers behind the chart</summary>
@@ -49,7 +49,7 @@ Predicted risk follows Beta(0.5, 3.5), a 12.5% default rate. Code: [scripts/make
 
 ## Try it
 
-Four working demos. No sign-in, and nothing you click costs anyone money.
+Five working demos. No sign-in, and nothing you click costs anyone money.
 
 <table>
 <tr>
@@ -80,6 +80,14 @@ Thirty graded runs of an agent that routes questions to specialists, calls an op
 <i>Shows: Tool orchestration, failure handling, guardrails and evaluation.</i>
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+<sub>RUNS HERE · NO AI MODEL</sub><br>
+<b><a href="https://daniel-livingston.streamlit.app/ask">Ask about my work</a></b><br><br>
+Pick a question and get the answer in my own words: verbatim quotes from the project write-ups and this page, with the source beside each one.<br><br>
+<i>Shows: Grounded answers, and knowing when a model isn't the right tool.</i>
+</td>
+</tr>
 </table>
 
 ## Projects
@@ -102,9 +110,10 @@ Tandem XGBoost models flag turbofan engines 50 and 15 cycles before failure, cat
 
 <sub>APPLIED AI · ENERGY & INDUSTRY</sub>
 ### [Tire Industry Report Analyst](https://github.com/livingdw67/michelin-rag)
-A LangGraph agent that answers questions over 1,250 pages of tire-industry annual reports with page citations. It got 40 of 41 test questions right and refused every off-topic and prompt-injection attempt.
+A LangGraph agent that answers questions over 1,250 pages of tire-industry annual reports with page citations. It got 40 of 41 hand-checked questions right and refused every off-topic and prompt-injection attempt. A harder 400-question test, crossing company, question type and wording, scored 82% on its 300 held-out questions, 21 points ahead of the best local model after tuning, and showed where the work is: comparisons and false premises.
 
-`LangGraph` `RAG` `FastAPI` `Streamlit` `Docker`
+`LangGraph` `RAG` `FastAPI` `Streamlit` `Docker`<br>
+[How it was tested](https://github.com/livingdw67/michelin-rag/blob/main/eval/factorial/README.md)
 
 <sub>APPLIED AI</sub>
 ### [Theme Park Event Extraction](https://github.com/livingdw67/theme-park-event-extraction)
