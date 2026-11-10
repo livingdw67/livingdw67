@@ -4,13 +4,13 @@
 Data Scientist, Greer, SC<br>
 <img src="https://img.shields.io/badge/M.S._Applied_Statistics-16283f?style=flat-square" alt="M.S. Applied Statistics"> <img src="https://img.shields.io/badge/AWS_Certified_ML-16283f?style=flat-square" alt="AWS Certified ML">
 
-# Models that change the decision.
+# AI that shows its work.
 
-Twelve years building, deploying and monitoring production models in finance, energy and industry, most recently as Principal Data Scientist at Diesel Laptops. I design the platform patterns and build on them: Snowflake and Databricks feature stores and semantic layers, forecasts that feed optimizers, and LLM agents with the tests to prove they work.
+Twelve years building, deploying and monitoring production models, most recently as Principal Data Scientist at Diesel Laptops. I design AI architecture and build it hands-on: semantic layers that reports, agents and MCP servers all consume, retrieval grounded in governed data, and agent orchestration with tools, state, failure handling and guardrails, tested the way you'd test any other claim.
 
-- **Decisions over metrics.** Models tuned to the business cost of an error, not a leaderboard score.
-- **Built to be questioned.** Interpretable models, fair-lending compliance, and every agent's numbers checked against its tools.
-- **Platforms that scale.** Governed Snowflake and Databricks patterns: isolated schemas with audit logging, feature stores, and champion/challenger promotion.
+- **Governance enforced by code.** One definition of each metric, shared by a report, an AI assistant and an MCP server under a read-only role, with all 80 metrics reconciled against hand-written SQL.
+- **The model chooses, code computes.** LLMs pick which calculation to run; tested code computes the figures, and every number in an answer is checked against its source.
+- **Tested like an experiment.** Held-out questions, blind grading and tests sized for power against a vendor baseline, and control groups for models in production.
 
 [![Try a demo](https://img.shields.io/badge/Try_a_demo-5fc4c0?style=flat-square)](#try-it)
 [![See the projects](https://img.shields.io/badge/See_the_projects-16283f?style=flat-square)](#projects)
@@ -164,7 +164,7 @@ Designed a five-schema Snowflake architecture with isolated environments and aud
 Built a centralized feature store across smart meter, program and demographic data, cutting data preparation and model building time by 50%, and introduced control groups for enterprise models.
 
 **2014 to 2023 · TIAA**<br>
-<sub>Senior Data Scientist, 2021 to 2023 · Senior Analyst, Customer Insights, 2016 to 2021</sub><br>
+<sub>Senior Data Scientist, Enterprise Analytics, 2016 to 2023 · Contractor, 2014 to 2016</sub><br>
 Built the propensity models behind a recommendation system that drove $36M in incremental revenue in six months, an XGBoost churn model with SHAP explanations, and the model monitoring process that became the firm's standard.
 
 ## Toolkit
