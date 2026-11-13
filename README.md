@@ -160,7 +160,7 @@ Designed a five-schema Snowflake architecture with isolated environments and aud
 Built a centralized feature store across smart meter, program and demographic data, cutting data preparation and model building time by 50%, and introduced control groups for enterprise models.
 
 **2014 to 2023 · TIAA**<br>
-<sub>Senior Data Scientist, 2021 to 2023 · Senior Analyst, Customer Insights, 2016 to 2021</sub><br>
+<sub>Senior Data Scientist, Enterprise Analytics, 2016 to 2023 · Contractor, 2014 to 2016</sub><br>
 Built the propensity models behind a recommendation system that drove $36M in incremental revenue in six months, an XGBoost churn model with SHAP explanations, and the model monitoring process that became the firm's standard.
 
 ## Toolkit
