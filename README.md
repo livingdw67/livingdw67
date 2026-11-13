@@ -6,7 +6,7 @@ Data Scientist, Greer, SC<br>
 
 # Models that change the decision.
 
-Twelve years building, deploying and monitoring production models in finance, energy and industry, most recently as Principal Data Scientist at Diesel Laptops. I design the platform patterns and build on them: Snowflake and Databricks feature stores and semantic layers, forecasts that feed optimizers, and LLM agents with the tests to prove they work.
+Twelve years building, deploying and monitoring production models in finance and energy. I design the platform patterns and build on them: Snowflake and Databricks feature stores and semantic layers, forecasts that feed optimizers, and LLM agents with the tests to prove they work.
 
 - **Decisions over metrics.** Models tuned to the business cost of an error, not a leaderboard score.
 - **Built to be questioned.** Interpretable models, fair-lending compliance, and every agent's numbers checked against its tools.
@@ -149,11 +149,7 @@ Models how heat pump and EV adoption shift winter peak load across South Carolin
 
 ## Experience
 
-Production models in finance, a utility and industrial diagnostics, measured in revenue, accuracy and hours saved.
-
-**2026 · Diesel Laptops**<br>
-<sub>Principal Data Scientist (contract)</sub><br>
-Deployed a classifier that separates sensor errors from physical coolant leaks, improving the diagnostic product's accuracy by 16%, peer-reviewed graph neural network models, and cut pipeline runtime by 30% under Dagster.
+Production models in finance and a utility, measured in revenue and hours saved.
 
 **2026 · Attain Financial**<br>
 <sub>Contract data scientist</sub><br>
@@ -164,7 +160,7 @@ Designed a five-schema Snowflake architecture with isolated environments and aud
 Built a centralized feature store across smart meter, program and demographic data, cutting data preparation and model building time by 50%, and introduced control groups for enterprise models.
 
 **2014 to 2023 · TIAA**<br>
-<sub>Senior Data Scientist, 2021 to 2023 · Senior Analyst, Customer Insights, 2016 to 2021</sub><br>
+<sub>Senior Data Scientist, Enterprise Analytics, 2016 to 2023 · Contractor, 2014 to 2016</sub><br>
 Built the propensity models behind a recommendation system that drove $36M in incremental revenue in six months, an XGBoost churn model with SHAP explanations, and the model monitoring process that became the firm's standard.
 
 ## Toolkit
@@ -177,5 +173,5 @@ Built the propensity models behind a recommendation system that drove $36M in in
 | **Statistics and causal inference** | Power analysis, A/B tests and control groups, McNemar's test with Newcombe intervals, Wilson intervals, block and cluster bootstrap, difference-in-differences, synthetic control with placebo tests, Owen values |
 | **Optimization** | Mixed-integer programming (OR-Tools, HiGHS), threshold optimization |
 | **Applied AI** | LLM agents and tool orchestration, RAG with citations, MCP, text-to-SQL over semantic layers, named-entity recognition (fine-tuned DistilBERT, zero-shot GLiNER), guardrails, LLM evaluation |
-| **Engineering** | Python, SQL, Git, pytest, GitHub Actions, Docker, FastAPI, Dagster, Kedro, Azure ML, AWS, SAS, R |
+| **Engineering** | Python, SQL, Git, pytest, GitHub Actions, Docker, FastAPI, Kedro, Azure ML, AWS, SAS, R |
 | **Credentials** | M.S. Applied Statistics. AWS Certified Machine Learning, Associate (2024) |
