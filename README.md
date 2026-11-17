@@ -130,13 +130,13 @@ Segments 4,261 customers by predicted next-quarter value and buying style. The t
 
 <sub>ANALYTICS ENGINEERING · CUSTOMER ANALYTICS</sub>
 ### [Automated Root Cause Analysis](https://github.com/livingdw67/semantic-rca)
-When a KPI drops, it works out why by crawling the dbt Semantic Layer in 8 to 11 warehouse statements, then splits the change across causes with Owen values and bootstrap intervals. On its showcase dataset it finds all four planted incidents with the right mechanism and sign. A benchmark over randomly planted incidents now scores recall and precision across many datasets, and is guiding the next round of improvements.
+When a KPI drops, it works out why by crawling the dbt Semantic Layer in 8 to 11 warehouse statements, then splits the change across causes with Owen values and bootstrap intervals. On its showcase dataset it finds all four planted incidents with the right mechanism and sign.
 
 `dbt Semantic Layer` `MetricFlow` `DuckDB` `Owen values` `Forecasting`
 
 <sub>FINANCE</sub>
 ### [Loan Default Prediction](https://github.com/livingdw67/loan-default-prediction)
-An ECOA-compliant model with an F2-tuned threshold that catches about 75% of defaults on a true holdout (AUC 0.76). Along the way it caught training-data leakage that had inflated the first estimate. It was rebuilt on Databricks, where one Optuna-tuned LightGBM matches the three-model ensemble (AUC 0.771 vs 0.762).
+An ECOA-compliant model with an F2-tuned threshold that catches about 80% of defaults on a true holdout (AUC 0.76) while flagging 42% of accounts for review. Along the way it caught training-data leakage that had inflated the first estimate. It was rebuilt on Databricks, where one Optuna-tuned LightGBM matches the three-model ensemble (AUC 0.771 vs 0.762).
 
 `Azure ML AutoML` `Databricks` `Optuna` `SHAP` `Threshold optimization`
 
